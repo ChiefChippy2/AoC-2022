@@ -1,1 +1,2 @@
-cat input1.txt | perl day1.pl
+cat input2.txt | perl day2.pl
+echo 
